@@ -17,7 +17,7 @@
     "@types/prettier": "2.7.2",
     "@walletconnect/ethereum-provider": "^2.10.0",
     "@walletconnect/modal": "^2.6.1",
-    "axios": "1.4.0",
+    "axios": "1.5.1",
     "color": "^4.2.3",
     "commander": "11.0.0",
     "ethers": "5.7.2",
