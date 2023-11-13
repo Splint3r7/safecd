@@ -13,7 +13,7 @@
     "@safe-global/protocol-kit": "1.2.0",
     "@slack/rtm-api": "^6.1.1",
     "@slack/web-api": "^6.9.0",
-    "@types/node": "18.15.11",
+    "@types/node": "18.18.6",
     "@types/prettier": "2.7.2",
     "@walletconnect/ethereum-provider": "^2.10.0",
     "@walletconnect/modal": "^2.6.1",
